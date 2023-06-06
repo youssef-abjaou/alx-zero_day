@@ -1,0 +1,13 @@
+git fetch #This command downloads the latest changes from the remote repository but doesn't merge them with your local branch.
+
+git pull #This command downloads the latest changes from the remote repository and merges them with your local branch.
+
+git log #this  command displays the commit history of your local repository, allowing you to see recent changes and updates.
+	
+git status # This command shows the current state of your local repository, including any files that have been modified or added since the last commit.
+
+git diff
+
+git branch -r
+
+git commit -m
